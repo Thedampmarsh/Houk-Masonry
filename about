@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+<link rel="stylesheet" href="../Styling.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://fonts.cdnfonts.com/css/norwester" rel="stylesheet">
+<meta charset="UTF-8">
+    <meta name="HOUK MASONRY" content="Hardest workig and most reliable masonry company in the pacific north west.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bilbo+Swash+Caps&family=Cedarville+Cursive&family=Lobster&family=Oswald:wght@300&family=Saira+Stencil+One&family=Stardos+Stencil&display=swap" rel="stylesheet">
+<link rel="icon" href="/masonry.png" type="image/x-icon"/>
+<title>HOUK MASONRY</title>
+</head>
+<div class=title-img>
+	  <h1 id="page-contents">HOUK MASONRY</h1>
+    <h3 id="page-contents">Custom residential and commercial installations.</h3>
+    <div class="img-contain" id="page-contents">
+    <h2 >Stone</h2> 
+    <div class="block"></div>
+    <h2 >Brick</h2>
+    <div class="block"></div>
+    <h2 >Block</h2>
+        <div class="block"></div>
+    <h2>Concrete</h2>
+    </div>
+</div>
+<header class="nav-header">
+    <nav class="nav">
+      <p href="/About.html" class="logo">About</p>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"
+        ><span class="nav-icon"></span
+      ></label>
+      <ul class="menu">
+        <li class="Home"><a href='/'>Home</a></li> 
+        <li class="Archive"><a href='/archive'>Gallery</a></li>
+        <!-- <li class="About"><a href="/pages/About.html">About</a></li> -->
+        <li class="Contact"><a href='/contact'>Contact</a></li>
+        <li class="Pricing"><a href='/services'>Services</a></li>
+      </ul>
+    </nav>
+  </header>
+<body>
+	<!--<div class="head-text" id="page-contents">-->
+	<!--	<h2 class="serve">Serving The Walla Walla Valley</h1>-->
+	<!--	<h2 class="info">Contact: (509) 240-6096<br> info@houkmasonry.com</h2>-->
+	<!--  </div>-->
+
+    <header class="archive-title">
+  <h2 id="title-font"  class="main-title">Welcome to Houk Masonry</h2>
+<p class="header-subtitle">Contact: (509) 240-6096<br> info@houkmasonry.com</p>
+
+  </header>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <p class="highlight">
+We take pride in our top-tier service for commercial and residential projects. Our expertise spans a diverse range of masonry skills, encompassing everything from Type III non-combustible wall construction to distinctive natural or artificial stone installations. Our seasoned masons deliver excellence in brick, block, and stone masonry.
+        </p>
+        <p class="highlight">
+            Building strong relationships, we've contributed to prominent projects like Walla
+            Walla High School, McLoughlin High School, Walla Walla Hatchery, and more.
+            Proudly serving the Walla Walla Valley community.
+        </p>
+    </section>
+    <section id="safety-timeliness">
+        <h2>Safety And Timeliness</h2>
+        <p class="highlight">
+            At Houk Masonry, safety is paramount. Our skilled team prioritizes protective
+            measures and adheres to guidelines, ensuring a secure work environment.
+        </p>
+        <p class="highlight">
+            Simultaneously, we value timely completion, employing efficient planning, skilled
+            management, and modern tools to enhance productivity.
+        </p>
+        <p class="highlight">
+            Prioritizing safety and timeliness, we create successful, efficient construction
+            processes for your masonry projects.
+        </p>
+    </section>
+
+    <section id="feature">
+            <p class="highlight">Our masonry crew's uncovering of an 87-year-old time capsule took center stage in the Union Bulletin.<a href="https://www.union-bulletin.com/local_columnists/etcetera/masonry-crew-uncovers-87-year-old-time-capsule-in-cemetery-gate-column/article_028708aa-55f3-11e7-8592-af5c5d216581.html"> Click to explore the full article!</a></p>
+    </section>
+           <p id="home-bottom"><strong>Office Hours:</strong> Monday to Friday from 7am to 5pm.</p>
+    <footer>
+          <div class="footer-list">
+     <ul class="menu1">
+        <li class="Home"><a href="/index.html">Home</a></li> 
+        <li class="Archive"><a href='/archive'>Gallery</a></li>
+        <li class="About"><a href='/about'>About</a></li>
+        <li class="Contact"><a href='/contact'>Contact</a></li>
+        <li class="Pricing"><a href='/services'>Services</a></li>
+      </ul>
+</div>
+<img class="footer-img" src="/images/Houksign_foot.jpg" alt="">
+    <div class="footer-box">
+    <a href="#" class="fa fa-facebook"></a>
+    <p class="footer-contact">
+    (509) 240-6096
+    <br>
+  info@houkmasonry.com</p>
+    <p class="footer-contact"></p>
+    </div>
+
+    </footer>
+    <script src="modal.js"></script>
+</body>
+  
+</html>

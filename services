@@ -1,0 +1,250 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+<link rel="stylesheet" href="../Styling.css">
+<link href="https://fonts.cdnfonts.com/css/norwester" rel="stylesheet">
+<meta charset="UTF-8">
+    <meta name="HOUK MASONRY" content="Hardest workig and most reliable masonry company in the pacific north west.">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bilbo+Swash+Caps&family=Cedarville+Cursive&family=Lobster&family=Oswald:wght@300&family=Saira+Stencil+One&family=Stardos+Stencil&display=swap" rel="stylesheet">
+<link rel="icon" href="/masonry.png" type="image/x-icon"/>
+<title>HOUK MASONRY</title>
+</head>
+<div class=title-img>
+	  <h1 id="page-contents">HOUK MASONRY</h1>
+    <h3 id="page-contents">Custom residential and commercial installations.</h3>
+    <div id="page-contents" class="img-contain">
+    <h2>Stone</h2> 
+    <div class="block"></div>
+    <h2>Brick</h2>
+    <div class="block"></div>
+    <h2>Block</h2>
+        <div class="block"></div>
+    <h2>Concrete</h2>
+    </div>
+</div>
+<header class="nav-header">
+    <nav class="nav">
+      <p href="/pages/Contact.html" class="logo">Services</p>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"
+        ><span class="nav-icon"></span
+      ></label>
+      <ul class="menu">
+        <li class="Home"><a href='/'>Home</a></li> 
+        <li class="Archive"><a href='/archive'>Gallery</a></li>
+        <li class="About"><a href='/about'>About</a></li>
+        <li class="Contact"><a href='/contact'>Contact</a></li>
+        <!-- <li class="Pricing"><a href="/pages/Services.html">Services</a></li> -->
+      </ul>
+    </nav>
+  </header>
+<body>
+  <!--<div class="head-text" id="page-contents">-->
+  <!--  <h2 class="serve">Serving The Walla Walla Valley</h1>-->
+  <!--  <h2 class="info">Contact: (509) 240-6096 <br>info@houkmasonry.com</h2>-->
+  <!--</div>-->
+<header class="archive-title">
+  <h2 id="title-font"  class="main-title">Project Ideas</h2>
+  <div class="about-wrapper">
+  <!-- <p>Here is a section with some ideas of constructions we can build for you, although don't let this list limit your imagination if you think of something masonry related, we can build it.
+  </p> -->
+  <p>Houk masonry offers a wide range of essential services, specializing in the art of constructing and repairing structures using various masonry materials. From the classic appeal of brickwork to the timeless elegance of stonework, our expertise spans a diverse array of projects. Our skilled professionals are adept at building sturdy foundations, chimneys, walls, and facades that stand strong against the elements. They excel in crafting intricate pathways, patios, and stunning outdoor landscapes that enhance the beauty and functionality of any property. Additionally, Houk masonry provides repair and restoration services to preserve and revitalize existing structures, ensuring their longevity and charm. With an eye for precision and a dedication to quality, Houk Masonry is dedicated to creating enduring architectural marvels that add grace to your landscaping for generations to come.
+  </p>
+</div>
+  </header>
+
+  <div class="box box-services">
+
+    <div class="services-about">
+  <div class="tabs">
+    <div class="btn-container">
+    <button class="button live" data-id="step1">Brick</button>
+    <button class="button" data-id="step2">Stone</button>
+    <button class="button" data-id="step3">Block</button>
+    <button class="button" data-id="step4">Concrete</button>
+    <button class="button" data-id="step5">Repair</button>
+</div>
+    <div class="tabs-content">
+      <div class="content live" id="step1">
+        <ul>
+            <li>
+             Patios
+          </li>
+            <li>
+            Brick walls
+          </li>
+            <li>
+             Steps
+          </li>
+            <li>
+            Columns
+          </li>
+            <li>
+            Arches
+          </li>
+            <li>
+            Facades
+          </li>
+          <li>
+            Pathways
+          </li>
+        <li>
+          Chimneys
+        </li>
+       <li>
+          Veneers
+        </li>
+        <li>
+          Bridges
+          </li>
+          <li>
+          Outdoor kitchens
+          </li>
+        </ul>
+
+      </div>
+
+      <div class="content" id="step2">
+        <ul>
+          <li>
+            Waterfalls
+          </li>
+          <li>
+            Pillars
+          </li>
+            <li>
+            Stone walls
+          </li>
+            <li>
+            Retaining walls
+          </li>
+            <li>
+            Steps
+          </li>
+            <li>
+            Fences
+          </li>
+            <li>
+            Columns
+          </li>
+            <li>
+            Arches
+          </li>
+            <li>
+            Facades
+          </li>
+            <li>
+            Chimneys
+            </li>
+        <li>
+        Freestanding walls
+          </li>
+        </ul>
+        <!-- <img src="/images/BricksForServices.jpg" alt=""> -->
+      </div>
+
+      <div class="content" id="step3">
+        <ul>
+          <li>Foundations</li>
+            <li>
+            Walls
+          </li>
+            <li>
+            Planters
+          </li>
+            <li>
+            Retaining walls
+          </li>
+        </ul>
+      </div>
+<div class="content" id="step4">
+        <ul>
+          <li>Foundations</li>
+          <li>
+            Drivways
+          </li>
+            <li>
+            Patios
+          </li>
+            <li>
+            Walkways
+          </li>
+            <li>
+            Stairs
+          </li>
+            <li>
+            Porches
+          </li>
+            <li>
+            Sidewalks
+          </li>
+            <li>
+            Slabs
+          </li>
+            <li>
+            Garage floors
+          </li>
+            <li>
+                Exposed aggregate
+          </li>
+        </ul>
+      </div>
+      
+      <div class="content" id="step5">
+        <ul>
+          <li>Buildings</li>
+          <li>
+            Chimneys
+          </li>
+            <li>
+            Foundations
+          </li>
+            <li>
+            Historic restorations
+          </li>
+            <li>
+            Brick
+          </li>
+            <li>
+            Block
+          </li>
+            <li>
+            Stone
+          </li>
+        </ul>
+      </div>
+    </div>
+</div>
+</div>
+  </div>
+<footer>
+    
+
+    <div class="footer-list">
+     <ul class="menu1">
+        <li class="Home"><a href="/index.html">Home</a></li> 
+        <li class="Archive"><a href='/archive'>Gallery</a></li>
+        <li class="About"><a href='/about'>About</a></li>
+        <li class="Contact"><a href='/contact'>Contact</a></li>
+        <li class="Pricing"><a href='/services'>Services</a></li>
+      </ul>
+</div>
+<img class="footer-img" src="/images/Houksign_foot.jpg" alt="">
+    <div class="footer-box">
+    <a href="#" class="fa fa-facebook"></a>
+    <p class="footer-contact">
+    (509) 240-6096
+    <br>
+  info@houkmasonry.com</p>
+    <p class="footer-contact"></p>
+    </div>
+
+    </footer>
+    <script src="/app.js"></script>
+</body>
+ 
+</html>

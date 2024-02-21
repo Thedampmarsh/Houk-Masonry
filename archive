@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+<link rel="stylesheet" href="../Styling.css">
+<link href="https://fonts.cdnfonts.com/css/norwester" rel="stylesheet">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="HOUK MASONRY" content="Hardest workig and most reliable masonry company in the pacific north west.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bilbo+Swash+Caps&family=Cedarville+Cursive&family=Lobster&family=Oswald:wght@300&family=Saira+Stencil+One&family=Stardos+Stencil&display=swap" rel="stylesheet">
+<link rel="icon" href="/masonry.png" type="image/x-icon"/>
+<title>HOUK MASONRY</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<div class=title-img>
+	  <h1 id="page-contents">HOUK MASONRY</h1>
+    <h3 id="page-contents">Custom residential and commercial installations.</h3>
+    <div id="page-contents" class="img-contain">
+    <h2>Stone</h2> 
+    <div class="block"></div>
+    <h2>Brick</h2>
+    <div class="block"></div>
+    <h2>Block</h2>
+        <div class="block"></div>
+    <h2>Concrete</h2>
+    </div>
+</div>
+ <header class="nav-header">
+    <nav class="nav">
+      <p href="/Archive.html" class="logo">Gallery</p>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"
+        ><span class="nav-icon"></span
+      ></label>
+      <ul class="menu">
+        <li class="Home"><a href='/'>Home</a></li> 
+        <!-- <li class="Archive"><a href="/pages/Archive.html">Archive</a></li> -->
+        <li class="About"><a href='/about'>About</a></li>
+        <li class="Contact"><a href='/contact'>Contact</a></li>
+        <li class="Pricing"><a href='/services'>Services</a></li>
+      </ul>
+    </nav>
+  </header>
+<body>
+  <div class="fullWrap">
+ <!--<div class="head-text" id="page-contents">-->
+ <!--   <h2 class="serve">Serving The Walla Walla Valley</h1>-->
+ <!--   <h2 class="info">Contact: (509) 240-6096 <br> info@houkmasonry.com</h2>-->
+ <!-- </div>-->
+    <header class="archive-title">
+  <h2 id="title-font"  class="main-title">Image Archive</h2>
+  <div class="about-wrapper">
+  <!-- <p>Welcome to the gallery page! Here you can view a selection of our past projects and get a glimpse of our commitment to excellence and attention to detail. Through our gallery, you can get a better understanding of our work and the quality of our services. Please take a look around and get inspired to create your own masonry project today!
+  </p> -->
+  <p>
+    Step into a world of awe-inspiring masonry creations! Welcome to our Masonry Photo Gallery, where we showcase the finest works of artistry and craftsmanship. From enchanting brick walls to exquisite stone structures, our gallery is a testament to the boundless possibilities of masonry. Immerse yourself in the beauty of each project, meticulously crafted by our skilled artisans, as they bring architectural visions to life. Whether you seek inspiration for your next project or simply wish to marvel at the art of masonry, this gallery is your window into a world of stunning designs and enduring elegance. So, come on in, and let the journey through our mesmerizing collection begin!</p>
+</div>
+  </header>
+    <main class="archive-main">
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery1.jpg" alt="Masonry Project 1"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery2.jpg" alt="Masonry Project 2"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery3.jpg" alt="Masonry Project 3"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery4.jpg" alt="Masonry Project 4"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery5.jpg" alt="Masonry Project 5"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery6.jpg" alt="Masonry Project 6"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery7.jpg" alt="Masonry Project 7"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery8.jpg" alt="Masonry Project 8"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery10.jpg" alt="Masonry Project 9"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery11.jpg" alt="Masonry Project 10"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery12.jpg" alt="Masonry Project 11"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery13.jpg" alt="Masonry Project 12"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery14.jpg" alt="Masonry Project 13"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery15.jpg" alt="Masonry Project 14"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery16.jpg" alt="Masonry Project 15"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery17.jpg" alt="Masonry Project 16"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery18.jpg" alt="Masonry Project 17"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery19.jpg" alt="Masonry Project 18"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery20.jpg" alt="Masonry Project 19"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery21.jpg" alt="Masonry Project 20"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery22.jpg" alt="Masonry Project 21"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery23.jpg" alt="Masonry Project 22"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery24.jpg" alt="Masonry Project 23"></div>
+<div class="img-box"><img id="myImg" class="archive-image" src="/images/Gallery25.jpg" alt="Masonry Project 24"></div>
+
+
+
+
+<div id="myModal" class="modal">
+  <img class="modal-content" id="img01">
+</div>
+
+    </main>
+  </div>
+  <footer>
+    
+
+    <div class="footer-list">
+     <ul class="menu1">
+        <li class="Home"><a href="/index.html">Home</a></li> 
+        <li class="Archive"><a href='/archive'>Gallery</a></li>
+        <li class="About"><a href='/about'>About</a></li>
+        <li class="Contact"><a href='/contact'>Contact</a></li>
+        <li class="Pricing"><a href='/services'>Services</a></li>
+      </ul>
+</div>
+<img class="footer-img" src="/images/Houksign_foot.jpg" alt="">
+    <div class="footer-box">
+    <a href="#" class="fa fa-facebook"></a>
+    <p class="footer-contact">
+   (509) 240-6096
+    <br>
+  info@houkmasonry.com</p>
+    <p class="footer-contact"></p>
+    </div>
+
+    </footer>
+  </div>
+    <script src="/modal.js"></script>
+</body>
+</html>

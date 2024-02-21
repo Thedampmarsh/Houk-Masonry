@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+<link rel="stylesheet" href="../Styling.css">
+<link href="https://fonts.cdnfonts.com/css/norwester" rel="stylesheet">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bilbo+Swash+Caps&family=Cedarville+Cursive&family=Lobster&family=Oswald:wght@300&family=Saira+Stencil+One&family=Stardos+Stencil&display=swap" rel="stylesheet">
+<link rel="icon" href="/masonry.png" type="image/x-icon"/>
+<title>HOUK MASONRY</title>
+</head>
+
+<body>
+  <div class=title-img>
+	  <h1 id="page-contents">HOUK MASONRY</h1>
+    <h3 id="page-contents">Custom residential and commercial installations.</h3>
+    <div id="page-contents" class="img-contain">
+    <h2>Stone</h2> 
+    <div class="block"></div>
+    <h2 >Brick</h2>
+    <div class="block"></div>
+    <h2>Block</h2>
+        <div class="block"></div>
+    <h2>Concrete</h2>
+    </div>
+</div>
+<header class="nav-header">
+    <nav class="nav">
+      <p href="/Contact.html" class="logo">Contact</p>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"
+        ><span class="nav-icon"></span
+      ></label>
+      <ul class="menu">
+        <li class="Home"><a href='/'>Home</a></li> 
+        <li class="Archive"><a href='/archive'>Gallery</a></li>
+        <li class="About"><a href='/about'>About</a></li>
+        <!-- <li class="Contact"><a href="/Contact.html">Contact</a></li> -->
+        <li class="Pricing"><a href='/services'>Services</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+
+    <div class="contact-container">
+        <h1>Request a quote</h1>
+        <form action="PHPMailer/contact.php" method="post" enctype="multipart/form-data">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" name="phone">
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" rows="4" required></textarea>
+<label for="userfile">Attach Files:</label>
+<div class="contact-content">
+        
+
+
+        <button style="padding: 7px; font-size: 13px;" id="home-button" type="button" onclick="addFileInput()">Add File</button>
+        <button style="padding: 7px; font-size: 13px;" id="home-button" type="button" onclick="clearAttachments()">Clear</button>
+        </div>
+                    <div id="file-input-container">
+    <!--<input name="userfile[]" type="file" multiple="multiple">-->
+    <!-- <br/>-->
+     </div>
+        <button id="home-button" type="submit">Submit</button>
+        </form>
+    </div>
+<footer>
+    <div class="footer-list">
+     <ul class="menu1">
+        <li class="Home"><a href="/index.html">Home</a></li> 
+        <li class="Archive"><a href='/archive'>Gallery</a></li>
+        <li class="About"><a href='/about'>About</a></li>
+        <li class="Contact"><a href='/contact'>Contact</a></li>
+        <li class="Pricing"><a href='/services'>Services</a></li>
+      </ul>
+</div>
+<img class="footer-img" src="/images/Houksign_foot.jpg" alt="">
+    <div class="footer-box">
+    <a href="#" class="fa fa-facebook"></a>
+    <p class="footer-contact">
+    (509) 240-6096
+    <br>
+  info@houkmasonry.com</p>
+    <p class="footer-contact"></p>
+    </div>
+
+    </footer>
+    <script>
+                function addFileInput() {
+            var fileInputContainer = document.getElementById('file-input-container');
+            var newFileInput = document.createElement('input');
+            newFileInput.setAttribute('type', 'file');
+            newFileInput.setAttribute('name', 'userfile[]');
+            newFileInput.setAttribute('multiple', 'multiple');
+            fileInputContainer.appendChild(newFileInput);
+            fileInputContainer.appendChild(document.createElement('br'));
+        }
+
+        function clearAttachments() {
+            var fileInputContainer = document.getElementById('file-input-container');
+            fileInputContainer.innerHTML = '';
+}
+    </script>
+</body>
+ 
+</html>
